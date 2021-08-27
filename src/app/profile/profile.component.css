@@ -1,0 +1,43 @@
+#cw-name {
+    text-align: center;
+    background-color: #4f4f4f;
+    height: 20rem;
+    margin-bottom: 1px;
+}
+
+#cw-title-name {
+    padding-top: 7.5rem;
+    color: #FFF;
+}
+
+#profile {
+    margin: 0 10%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: -6rem;
+    border: solid 0.313rem;
+    border-color: #FFF;
+}
+
+div {
+    border: solid 1px;
+    border-color: transparent;
+    box-shadow: 0.063rem 0.125rem 0.125rem 0.063rem rgba(0,0,0,0.5);
+    margin: -5% auto 0 auto;
+    height: 25rem;
+    text-align: center;
+    overflow-y: auto;
+}
+
+button {
+    width: 11.25rem;
+    margin: 10% 2% 5% 2%;
+}
+
+p {
+    padding: 0% 7%;
+}

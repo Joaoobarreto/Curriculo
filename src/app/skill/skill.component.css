@@ -1,0 +1,41 @@
+section { 
+    margin: 5% 8% 0% 8%;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 6%;
+}
+
+#cw-conteiner-all-skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cw-conteiner-skill {
+    height: 31.25rem;
+    width: 21.875rem;
+    margin-right: 2%; 
+    color: white;
+    background-color: #424242; 
+    border-radius: 12px;
+}
+
+.cw-conteiner-skill h3{
+    text-align: center;
+    padding-top: 15%;
+}
+
+.progress-bar-title {
+    padding: 0 5% 0 5%;
+    width: 19.625rem;
+    margin-bottom: 3%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+  
+.progress {
+    margin: 0 5% 5% 5%;
+}

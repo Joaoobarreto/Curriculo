@@ -1,0 +1,38 @@
+section {
+    margin: 5% 20% 0% 20%;
+    max-width: 60%;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#cw-main-contact {
+    background-color: #424242;
+    text-align: center;
+    color: white;
+    box-shadow: none;
+    border: none;
+}
+
+.link-contact {
+display: block;
+margin: 5% 30% 8% 30%;
+}
+
+.link-contact:nth-child(1){
+    padding-top: 8%;
+}
+
+.link-contact:nth-child(5) {
+    padding:0 10% 4% 10%;
+    margin-bottom: 0;
+}
+
+.link-contact a,span {
+    margin-left: 2%;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
